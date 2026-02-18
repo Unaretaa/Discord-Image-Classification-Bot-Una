@@ -18,3 +18,5 @@ Bot juga akan menampilkan tingkat keyakinan (confidence) dari hasil prediksi ter
 
 Dengan bot ini, proses membedakan singa dan harimau 
 bisa dilakukan dengan cepat dan otomatis tanpa perlu melihatnya secara manual.
+
+![Alt Text](https://github.com/Unaretaa/Discord-Image-Classification-Bot-Una/blob/3c8931ac1056669c496b3c4fcdb9ac2b9a752853/check_sound.png)
