@@ -9,8 +9,8 @@ Setelah itu, gambar dikirim ke model yang sudah dilatih dengan banyak contoh gam
 
 ## Model dan Ciri yang Dikenali
 Model ini belajar mengenali ciri-ciri penting, seperti:
--> Singa biasanya memiliki surai (rambut lebat di leher, terutama pada jantan) dan warna bulu polos.
--> Harimau memiliki belang hitam yang jelas di tubuhnya.
+Singa biasanya memiliki surai (rambut lebat di leher, terutama pada jantan dan warna bulu polos.
+-Harimau memiliki belang hitam yang jelas di tubuhnya.
 
 ## Hasil Klasifikasi 
 model akan menentukan apakah gambar tersebut adalah singa atau harimau. 
