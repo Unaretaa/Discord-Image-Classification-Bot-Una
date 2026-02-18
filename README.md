@@ -1,3 +1,4 @@
+# Discord Image Classification Bot
 Bot ini dibuat untuk membedakan gambar singa dan harimau 
 secara otomatis menggunakan model kecerdasan buatan (AI) yang sudah dilatih sebelumnya.
 
@@ -7,9 +8,7 @@ terlebih dahulu, seperti diubah ukurannya agar sesuai dengan model dan disesuaik
 Setelah itu, gambar dikirim ke model yang sudah dilatih dengan banyak contoh gambar singa dan harimau.
 
 Model ini belajar mengenali ciri-ciri penting, seperti:
-
 -> Singa biasanya memiliki surai (rambut lebat di leher, terutama pada jantan) dan warna bulu polos.
-
 -> Harimau memiliki belang hitam yang jelas di tubuhnya.
 
 Berdasarkan ciri-ciri yang ditemukan pada gambar, 
